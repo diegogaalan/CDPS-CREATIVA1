@@ -1,4 +1,4 @@
-# Auto P2 - Virtual Scenario Deployment
+#Virtual Scenario Deployment
 
 ## Overview
 This project automates the creation and management of a virtual network scenario using KVM virtual machines and Open vSwitch.
